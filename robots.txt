@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ewdonsou.github.io/ewdonsou.txt.gz
+Sitemap: https://ewdonsou.github.io/app/ewdonsou.txt.gz
+Sitemap: https://ewdonsou.github.io/assets/ewdonsou.txt.gz
+Sitemap: https://ewdonsou.github.io/css/ewdonsou.txt.gz
+Sitemap: https://ewdonsou.github.io/includes/ewdonsou.txt.gz
+Sitemap: https://ewdonsou.github.io/item/ewdonsou.txt.gz
+Sitemap: https://ewdonsou.github.io/src/ewdonsou.txt.gz
